@@ -16,8 +16,8 @@
 
 1. **Clone repository**
     ```bash
-    git clone https://github.com/your-username/web-ssh-terminal.git
-    cd web-ssh-terminal
+    git clone https://github.com/your-username/ssh-term.git
+    cd ssh-term
     ```
 
 2. **Cài đặt các gói phụ thuộc**
