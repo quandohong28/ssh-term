@@ -16,8 +16,8 @@ The Web SSH Terminal application allows you to connect to an Ubuntu VPS server f
 
 1. **Clone the repository**
     ```bash
-    git clone https://github.com/your-username/web-ssh-terminal.git
-    cd web-ssh-terminal
+    git clone https://github.com/quandohong28/ssh-term.git
+    cd ssh-term
     ```
 
 2. **Install dependencies**
