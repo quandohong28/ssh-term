@@ -16,7 +16,7 @@
 
 1. **Clone repository**
     ```bash
-    git clone https://github.com/your-username/ssh-term.git
+    git clone https://github.com/quandohong28/ssh-term.git
     cd ssh-term
     ```
 
